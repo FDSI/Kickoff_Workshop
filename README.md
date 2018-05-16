@@ -17,4 +17,4 @@ Breakout Signup Sheet: https://docs.google.com/document/d/1aoBprjuysHYnZ-i5-qjvx
 Breakout Instructions and Reports: https://github.com/CFDSI/Kickoff_Workshop/blob/master/Breakout_Discussion_gdoc_links.md
 
 Instructions for Remote Attendees:
-https://github.com/CFDSI/Kickoff_Workshop/blob/master/Remote_Breakout.md
+https://github.com/CFDSI/Kickoff_Workshop/blob/master/Remote_Instructions.md
