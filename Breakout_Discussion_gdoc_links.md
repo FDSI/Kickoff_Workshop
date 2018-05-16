@@ -2,7 +2,7 @@
 
 During the workshop we will have 4 breakout sessions labeled A, B, C, and D.  In each of these sessions we anticipate having 10 tables of parallel discussions on topics dynamically selected by the community.  We will also host at least 1 (2 if there are enough interested) remote Zoom-based discussion for remote participants to engage in parallel with the 10 local tables. 
 
-Each of these 44 discussion groups will have a **scribe**, a **moderator**, and a **reporter**.  To make the scribe’s job easier, we have pre-created the 44 Google Docs and also filled each of those docs with prompts.  Below, we have included links to four folders, one associated with each session, containing these folders.  In this way, this document will provide a quick link for the scribe’s browser.
+Each of these 44 discussion groups will have a **scribe**, a **moderator**, and a **reporter**.  The scribe will be responsible for recording remarks in the session in a Google Doc. To make the scribe’s job easier, we have pre-created the 44 Google Docs and also filled each of those docs with prompts.  Below, we have included links to four folders, one associated with each session, containing these folders.  In this way, this document will provide a quick link for the scribe’s browser.  The moderator will be responsible for moderating the discussion within a discussion group, while the reporter will provide a 5-minute overview to the entire workshop.
 
 For each discussion group, the scribe will be chosen as the individual with the closest birthday **before** a random date selected for the session, and the moderator will be chosen as the individual with the closest birthday **after** the random date.  Each discussion group will select their own reporter.
 
