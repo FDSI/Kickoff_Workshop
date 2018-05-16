@@ -4,7 +4,11 @@ _General Information_
 
 Workshop Website: https://www.colorado.edu/events/cfdsi/events-registration
 
+Parking Information: https://www.colorado.edu/events/cfdsi/events-registration/parking
+
 Hotel List: https://www.colorado.edu/events/cfdsi/events-registration/hotel-list
+
+Restaurant List: https://www.colorado.edu/events/cfdsi/events-registration/restaurants
 
 GitHub Page: https://github.com/CFDSI/Kickoff_Workshop
 
