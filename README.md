@@ -27,5 +27,5 @@ Breakout Instructions and Reports: https://github.com/CFDSI/Kickoff_Workshop/blo
 Instructions for Remote Attendees:
 https://github.com/CFDSI/Kickoff_Workshop/blob/master/Remote_Instructions.md
 
-Lightning Slides:
-Please send to John Farnsworth at john.farnsworth@colorado.edu.
+Lightning Slides: Please send to John Farnsworth at john.farnsworth@colorado.edu.
+Day 1 Slides: https://drive.google.com/open?id=1Hfc6cbssMsgLItuZ9v-KUrK5O01GIwCF
